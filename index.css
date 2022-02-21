@@ -1,0 +1,36 @@
+* resets */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* reset default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd,
+picture {
+  margin: 0;
+}
+
+/* resetting body */
+
+body {
+    line-height: 1.5;
+    min-height: 100vh;
+}
+
+img,
+picture {
+    max-width: 100%;
+    display: block;
+}
