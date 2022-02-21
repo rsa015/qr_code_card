@@ -34,3 +34,47 @@ picture {
     max-width: 100%;
     display: block;
 }
+
+
+/* define color variable */
+
+:root {
+    --my-white-color: White: hsl(0, 0%, 100%);
+    --my-lgray-color: hsl(212, 45%, 89%);
+    --my-grayish-blue: hsl(220, 15%, 55%);
+    --my-dark-blue: hsl(218, 44%, 22%);
+    --default-gap: 1rem;
+}
+
+
+/* Utility classes */
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+
+
+/* Custom classes */
+
+.main_container {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: var(--default-gap, 2rem)
+}
+
+.qr_box {
+    flex-direction: column;
+    border-radius: 1.5rem;
+    background-color: var(--my-dark-blue);
+    width: 25rem;
+    height: 35rem;
+}
+
+
+
