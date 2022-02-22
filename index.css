@@ -71,7 +71,7 @@ picture {
     flex-direction: column;
     border-radius: 1.5rem;
     background-color: white;
-    width: 22rem;
+    width: 25rem;
     height: 35rem;
     gap: 2rem;
 }
@@ -82,13 +82,13 @@ picture {
     border-radius: 1.5rem;
     margin-inline: auto;
     margin-top: 1.5rem;
-    width: 19rem;
+    width: 20rem;
     height: 20rem;
 }
 
 .improve_txt_container {
     height: 7rem;
-    width: 18rem;
+    width: 19rem;
     padding-inline: 2rem;
     margin-inline: auto;
     text-align: center;
@@ -97,8 +97,9 @@ picture {
     color: var(--my-dark-blue);
 }
 
-.improve_txt_container h2 {
+.improve_txt_container h1 {
     font-family: 'Outfit', sans-serif;
+    font-size: 16;
 }
 
 .visit_msg {
