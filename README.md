@@ -24,3 +24,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://github.com/rsa015/qr_code_card](https://github.com/rsa015/qr_code_card)
 - Live Site URL: [https://rsa015.github.io/qr_code_card/](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+## Author
+
+- Frontend Mentor - [@rsa015](https://www.frontendmentor.io/profile/rsa015)
+- Twitter - [@rs_amegee](https://www.twitter.com/rs_amegee)
