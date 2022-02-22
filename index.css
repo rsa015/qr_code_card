@@ -69,7 +69,11 @@ picture {
 
 .qr_box {
     flex-direction: column;
+<<<<<<< HEAD
     border-radius: .75rem;
+=======
+    border-radius: 1rem;
+>>>>>>> aefcd257bc6da42325eb67dd4692b55adaf82dd8
     background-color: white;
     width: 22rem;
     height: 35rem;
@@ -79,7 +83,11 @@ picture {
 .qr_code_container {
     background: url("./images/image-qr-code.png") no-repeat center;
     background-size: cover;
+<<<<<<< HEAD
     border-radius: .75rem;
+=======
+    border-radius: 1rem;
+>>>>>>> aefcd257bc6da42325eb67dd4692b55adaf82dd8
     margin-inline: auto;
     margin-top: .75rem;
     width: 20.5rem;
