@@ -64,7 +64,7 @@ picture {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: var(--default-gap, 2rem)
+    gap: 3rem
 }
 
 .qr_box {
@@ -98,7 +98,7 @@ picture {
 }
 
 .improve_txt_container h2 {
-    font-family: 'Outfit' sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 .visit_msg {
